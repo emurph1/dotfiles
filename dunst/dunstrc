@@ -9,7 +9,7 @@
     follow = mouse
 
 #   geometry = "375x20-21+38"
-    geometry = "375x20-28+36"
+    geometry = "375x20-28-36"
     indicate_hidden = yes
     shrink = no
     transparency = 20
@@ -27,7 +27,7 @@
     
 
     ### Text ###
-    font = SF Pro Display 9
+    font = SF Pro Display 10
     line_height = 0
 
     markup = full
